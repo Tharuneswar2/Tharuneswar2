@@ -160,9 +160,9 @@ mission     : Design & deploy high-impact AI platforms that think, search, and s
 <div align="center">
 
 <a href="https://github.com/Tharuneswar2">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Tharuneswar2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=C77DFF&icon_color=B06EFF&text_color=E0AAFF&count_private=true&rank_icon=github"/>
+  <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Tharuneswar2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=C77DFF&icon_color=B06EFF&text_color=E0AAFF&count_private=true&rank_icon=github"/>
   &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharuneswar2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=C77DFF&text_color=E0AAFF&langs_count=8"/>
+  <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tharuneswar2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=C77DFF&text_color=E0AAFF&langs_count=8"/>
 </a>
 
 <br/><br/>
