@@ -182,7 +182,7 @@ mission     : Design & deploy high-impact AI platforms that think, search, and s
 <br/>
 
 <!-- ═══════════════════════  CERTIFICATIONS  ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0014,50:1a0033,100:2d0066&height=60&section=header&text=%3E%20certifications%20and%20awards&fontSize=22&fontColor=C77DFF&fontAlign=14&fontAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0014,50:1a0033,100:2d0066&height=60&section=header&text=%20%3E%20certifications%20%26amp%3B%20awards&fontSize=22&fontColor=C77DFF&fontAlign=14&fontAlignY=60" width="100%" />
 
 <div align="center">
 
