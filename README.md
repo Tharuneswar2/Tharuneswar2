@@ -168,7 +168,7 @@ mission     : Design & deploy high-impact AI platforms that think, search, and s
 <br/><br/>
 
 <a href="https://github.com/Tharuneswar2">
-  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=Tharuneswar2&theme=transparent&hide_border=true&background=0D0020&ring=B06EFF&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=9D4EDD&dates=9D4EDD&currStreakNum=ffffff&sideNums=ffffff&stroke=0D0020"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=Tharuneswar2&theme=transparent&hide_border=true&background=0D0020&ring=B06EFF&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=9D4EDD&dates=9D4EDD&currStreakNum=ffffff&sideNums=ffffff&stroke=0D0020"/>
 </a>
 
 <br/><br/>
